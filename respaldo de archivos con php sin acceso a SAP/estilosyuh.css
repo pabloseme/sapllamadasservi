@@ -1,0 +1,10 @@
+/*body  {
+    /*background-image: url("logo2.png");  */
+    /*background-position: center; /* Center the image */
+   /* background-repeat: no-repeat; /* Do not repeat the image */
+    /*/*background-size: cover; /* Resize the background image to cover the entire container */
+  /*}*/
+
+  .container-fluid{
+      height: 350px;
+  }
